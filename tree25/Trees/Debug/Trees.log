@@ -1,0 +1,3 @@
+﻿  Trees.cpp
+C:\Users\vitas\source\repos\tree25\Trees\Trees.cpp(32,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Trees.vcxproj -> C:\Users\vitas\source\repos\tree25\Debug\Trees.exe
